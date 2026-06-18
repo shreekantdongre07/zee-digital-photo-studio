@@ -11,7 +11,7 @@ form?.addEventListener("submit", (event) => {
   const message = data.get("message")?.toString().trim();
 
   const lines = [
-    `Hi ZEE Digital Photo Studio, my name is ${name}.`,
+    `Hi ZEE DIGITAL PHOTOGRAPHY, my name is ${name}.`,
     `I am interested in: ${service}.`,
     date ? `Preferred date: ${date}.` : "",
     message ? `Details: ${message}` : "",

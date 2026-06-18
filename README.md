@@ -1,6 +1,6 @@
-# ZEE Digital Photo Studio
+# ZEE DIGITAL PHOTOGRAPHY
 
-Static website for ZEE Digital Photo Studio.
+Static website for ZEE DIGITAL PHOTOGRAPHY.
 
 ## Files
 
